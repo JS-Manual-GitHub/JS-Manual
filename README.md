@@ -10,6 +10,6 @@ The above mouse is performing a self-paced center out joystick task for a fluid 
 <p>0 : waiting for reach </p>
 <p>1 : delay to reward </p>
 <p>2 : fluid delivery </p>
-<p>3: intertrial interval.</p>
+<p>3 : intertrial interval.</p>
 <p>Real time joystick position and threshold as well as task performance and parameters can be visualized using a Java based Processing sketch (above left). 
 </p>
